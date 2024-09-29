@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/dinosaur-game/static/js/main.f060d09c.js",
+    "index.html": "/dinosaur-game/index.html",
+    "main.f060d09c.js.map": "/dinosaur-game/static/js/main.f060d09c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f060d09c.js"
+  ]
+}
